@@ -1,0 +1,8 @@
+<suite name = "maven project">
+ <test name = "Chrome Test">
+   <parameter name = "browser" value = "Chrome"/>
+    <classes>
+     <class name = "tests.AppTest"/>
+   </classes>
+  </test>
+</suite>
